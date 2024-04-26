@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Soham Haldar 👋 . I am a full Stack MERN Developer.<br>I would be very happy to collaborate with you on new projects
+<h1>Hi I am Soham Haldar 👋 . I am a full Stack MERN Developer.</h1><br>I would be very happy to collaborate with you on new projects
 
 
 ## 🌐 Socials:
